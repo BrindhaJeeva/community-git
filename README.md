@@ -1,2 +1,2 @@
 # community-git
-#community-class
+# community-class
